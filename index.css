@@ -3,7 +3,7 @@ nav li li li {display: none !important; }
 nav {
 	display: inline-block;
     text-align:center;
-	margin: 0px 20%;
+	margin: 0px 10%;
 }
 
 nav ul {
@@ -43,7 +43,7 @@ nav li:hover ul {
 nav li:hover a {
 	background-color: #ccc;
 }
-i
+
 nav li:hover a:hover {
 	background-color: #eee;
 }
